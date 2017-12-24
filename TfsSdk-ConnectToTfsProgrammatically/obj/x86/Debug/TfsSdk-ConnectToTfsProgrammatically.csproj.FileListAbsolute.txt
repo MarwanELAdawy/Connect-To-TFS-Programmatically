@@ -1,0 +1,32 @@
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe.config
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Form1.resources
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Properties.Resources.resources
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+c:\users\avmin!\documents\visual studio 2010\projects\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe.config
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Form1.resources
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Properties.Resources.resources
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\Administrator\Downloads\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe.config
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.csprojResolveAssemblyReference.cache
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Form1.resources
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk_ConnectToTfsProgrammatically.Properties.Resources.resources
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.csproj.GenerateResource.Cache
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.exe
+C:\Users\marwa\Downloads\Compressed\TfsSdk-ConnectToTfsProgrammatically_VS2012\TfsSdk-ConnectToTfsProgrammatically\obj\x86\Debug\TfsSdk-ConnectToTfsProgrammatically.pdb
